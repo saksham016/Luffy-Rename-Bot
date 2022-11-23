@@ -2,16 +2,16 @@
 
 class Translation( object ):
     NOT_AUTH_TXT = "<b>⚠️ Unauthorized Access ⚠️</b>\nYou're not Auth User. So You Can't Use the Core " \
-                   "components of this Bot. Inconvenience is regretted!\nTo become a Auth User follow the steps:\n \n<b>🔮 Step 1: </b>Join <a href="https://t.me/anime_minez">AM Chatzone</a>\n<b>🔮 Step 2:</b> Ask for permission from <a href="https://t.me/innocentboy_16">Mr. Saksham</a>"
+                   "components of this Bot. Inconvenience is regretted!"
     DOWNLOAD_START = "<b>━━┫ Downloading 📥 ┣━━</b>"
     UPLOAD_START = "<b>━━┫ Uploading 📤 ┣━━</b>"
     SAVED_CUSTOM_THUMB_NAIL = "<b>✅ Thumbnail Saved Successfully.</b>\n<code>This file will be used in upcoming " \
                               "rename or video conversions</code> "
     SAVED_RECVD_DOC_FILE = "<b>✅ Media Downloaded Successfully</b>"
-    ACCESS_DENIED_TEXT = "You're not Authorized to use this Bot. \nTo use this bot contact <b><a href="https://t.me/innocentboy_16">Mr. Saksham</a></b>"
+    ACCESS_DENIED_TEXT = "You're not Authorized to use this Bot."
     START_TEXT = "Hey.. <b>{}</b>\n\n<b>I'm -</b> {}\n\n<b>Things I Can Do:</b>\n" \
                  "➟ Rename File \n➟ Convert to Video/File \n➟ Custom Thumbnail \n➟ Send Media to 5 Different Channels/Groups \n\n" \
-                 "<i>Send filename + extension (Eg: Pokemon.mkv) as a reply to any telegram media, and follow " \
+                 "<i>Send filename + extension (Eg: onepiece.mkv) as a reply to any telegram media, and follow " \
                  "Bot's instructions.</i>\n\n" \
                  "<b>👨‍💻 Developer: </b><a href='https://t.me/innocentboy_16'> Mr. Saksham</a>\n" \
                  "<b>🧬 Source Code: </b><a href='https://github.com/innocentboy-16/Luffy-Rename-Bot'>Github</a>\n\n"
@@ -30,7 +30,7 @@ class Translation( object ):
     EXTENSIONS = ['.mkv', '.mp4', '.avi', '.webm']
     NO_SPAM_MSG = "⚠️ <b>Don't Spam Here</b>\n<code>Read the welcome message for better use of this bot !</code>"
     MAKE_A_COPY_TEXT = "<b>📚 You Need a Copy ?</b>"
-    CAPTION_TEXT = "<b>📁 Filename : {} </b> \nSupport us by Joining <a href="https://t.me/anime_mine_library">Anime Mine</a>"
+    CAPTION_TEXT = "<b>📁 Filename : {}</b>"
     SUCCESSFUL_SEND = "<code>Forwarded Successfully to:</code>\n<b>{}</b>"
     FORWARD_ERROR = "<b>⚠️ Attention :</b>\n<code>Make Sure That I am Admin in Your Channel or Provided Channel " \
                     "ID is Correct.</code>"
