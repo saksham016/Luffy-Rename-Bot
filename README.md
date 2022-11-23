@@ -1,5 +1,5 @@
 
-# [Rename-Pro-Bot](https://github.com/dakshkohli23/Rename-Pro-Bot) 🔮
+# [Luffy-Rename-Bot](https://github.com/innocentboy-16/Luffy-Rename-Bot/) 🔮
 
 A Telegram File Rename Bot With Permanent Thumbnail Support Also It Can Send Files Into 5 Different Channels/Groups!!
 
@@ -38,7 +38,7 @@ These functions can be done in a single download** 😍
 
 ## 🔮 Easy Way :
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dakshkohli23/Rename-Pro-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/innocentboy-16/Luffy-Rename-Bot)
 
 ## 🔮 In Servers Or VPS:
 
@@ -97,4 +97,4 @@ channel5 - set channel5 as default channel               (Optional)
 
 ## 🔮 Creator :
 
-[Mr. Dlaize](https://t.me/Dlaize)
+[Mr. Saksham](https://t.me/Innocentboy_16)
