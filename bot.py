@@ -1,4 +1,4 @@
-#-------------------------------------- https://github.com/dakshkohli23/Rename-Pro-Bot --------------------------------------#
+#-------------------------------------- https://github.com/innocentboy-16/Luffy-Rename-Bot --------------------------------------#
 
 import logging
 import os
@@ -21,7 +21,7 @@ class Bot(Client):
 
     def __init__(self):
         super().__init__(
-            session_name="Dlaize",
+            session_name="Saksham",
             bot_token=Config.TG_BOT_TOKEN,
             api_id=Config.APP_ID,
             api_hash=Config.API_HASH,
