@@ -9,9 +9,9 @@ class Translation( object ):
                               "rename or video conversions</code> "
     SAVED_RECVD_DOC_FILE = "<b>✅ Media Downloaded Successfully</b>"
     ACCESS_DENIED_TEXT = "You're not Authorized to use this Bot."
-    START_TEXT = "Hey.. <b>{}</b>\n\n<b>I'm -</b> Luffy\n\n<b>Things I Can Do:</b>\n" \
+    START_TEXT = "Hey.. <b>{}</b>\n\n<b>I'm -</b> {}\n\n<b>Things I Can Do:</b>\n" \
                  "➟ Rename File \n➟ Convert to Video/File \n➟ Custom Thumbnail \n➟ Send Media to 5 Different Channels/Groups \n\n" \
-                 "<i>Send filename + extension (Eg: onepiece.mkv) as a reply to any telegram media, and follow " \
+                 "<i>Send filename + extension (Eg: Pokemon.mkv) as a reply to any telegram media, and follow " \
                  "Bot's instructions.</i>\n\n" \
                  "<b>👨‍💻 Developer: </b><a href='https://t.me/innocentboy_16'> Mr. Saksham</a>\n" \
                  "<b>🧬 Source Code: </b><a href='https://github.com/innocentboy-16/Luffy-Rename-Bot'>Github</a>\n\n"
@@ -30,7 +30,7 @@ class Translation( object ):
     EXTENSIONS = ['.mkv', '.mp4', '.avi', '.webm']
     NO_SPAM_MSG = "⚠️ <b>Don't Spam Here</b>\n<code>Read the welcome message for better use of this bot !</code>"
     MAKE_A_COPY_TEXT = "<b>📚 You Need a Copy ?</b>"
-    CAPTION_TEXT = "<b>📁 Filename : {}</b>"
+    CAPTION_TEXT = "<b>📁 Filename : {}</b>\nJoin <a href="https://t.me/anime_mine_library">Anime Mine</a>"
     SUCCESSFUL_SEND = "<code>Forwarded Successfully to:</code>\n<b>{}</b>"
     FORWARD_ERROR = "<b>⚠️ Attention :</b>\n<code>Make Sure That I am Admin in Your Channel or Provided Channel " \
                     "ID is Correct.</code>"
