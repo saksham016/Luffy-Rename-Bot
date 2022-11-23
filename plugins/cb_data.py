@@ -1,4 +1,4 @@
-#-------------------------------------- https://github.com/dakshkohli23/Rename-Pro-Bot --------------------------------------#
+#-------------------------------------- https://github.com/innocentboy-16/Luffy-Rename-Bot --------------------------------------#
 
 from plugins.help_text import start_bot, bot_settings
 from plugins.sub_functions import view_thumbnail, delete_thumbnail, del_thumb_confirm, close_button
