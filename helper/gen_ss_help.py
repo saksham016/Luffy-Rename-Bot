@@ -1,10 +1,10 @@
-#------------------------------------- https://github.com/dakshkohli23/Rename-Pro-Bot -------------------------------------#
+#------------------------------------- https://github.com/innocentboy-16/Luffy-Rename-Bot -------------------------------------#
 
 import asyncio
 import os
 import time
 import logging
-#-------------------------------------- https://github.com/dakshkohli23/Rename-Pro-Bot --------------------------------------#
+#-------------------------------------- https://github.com/innocentboy-16/Luffy-Rename-Bot --------------------------------------#
 
 from hachoir.metadata import extractMetadata
 from hachoir.parser import createParser
