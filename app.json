@@ -1,10 +1,11 @@
+#------------------------------------------https://github.com/innocentboy-16/Luffy-Rename-Bot------------------------------------------#
 {
-  "name": "Rename Pro Bot",
+  "name": "Luffy Rename Bot",
   "description": "Telgram Rename Bot | Video Converter | Broadcast File to 5 Channels/Groups",
   "logo": "https://i.ibb.co/12v0nS3/dribbble-shot-1.png",
   "keywords": ["telegram", "best", "open", "source", "file", "formatter", "chat", "uploader"],
-  "website": "https://github.com/dakshkohli23/Rename-Pro-Bot",
-  "repository": "https://github.com/dakshkohli23/Rename-Pro-Bot",
+  "website": "https://github.com/innocentboy-16/Luffy-Rename-Bot",
+  "repository": "https://github.com/innocentboy-16/Luffy-Rename-Bot",
   "env": {
         "APP_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
