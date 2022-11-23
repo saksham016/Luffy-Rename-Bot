@@ -1,4 +1,4 @@
-#-------------------------------------- https://github.com/m4mallu/renameprobot --------------------------------------#
+#-------------------------------------- https://github.com/innocentboy-16/Luffy-Rename-Bot --------------------------------------#
 
 import os
 import time
