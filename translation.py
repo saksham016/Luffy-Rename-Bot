@@ -11,7 +11,7 @@ class Translation( object ):
     ACCESS_DENIED_TEXT = "You're not Authorized to use this Bot. \nTo use this bot contact <b><a href="https://t.me/innocentboy_16">Mr. Saksham</a></b>"
     START_TEXT = "Hey.. <b>{}</b>\n\n<b>I'm -</b> {}\n\n<b>Things I Can Do:</b>\n" \
                  "➟ Rename File \n➟ Convert to Video/File \n➟ Custom Thumbnail \n➟ Send Media to 5 Different Channels/Groups \n\n" \
-                 "<i>Send filename + extension (Eg: onepiece.mkv) as a reply to any telegram media, and follow " \
+                 "<i>Send filename + extension (Eg: Pokemon.mkv) as a reply to any telegram media, and follow " \
                  "Bot's instructions.</i>\n\n" \
                  "<b>👨‍💻 Developer: </b><a href='https://t.me/innocentboy_16'> Mr. Saksham</a>\n" \
                  "<b>🧬 Source Code: </b><a href='https://github.com/innocentboy-16/Luffy-Rename-Bot'>Github</a>\n\n"
